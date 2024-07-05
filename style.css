@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .cabecalho {
+    background-color: #1e9e53;
+    color: rgb(251, 253, 250);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    }
+    .cabecalho-imagem{
+    width: 20%;
+    }
+
+    .cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+    }
+
+    .sericultura-imagem{
+        width: 25%;
+    }
+
+    .sericultura{
+        background-image: linear-gradient(#a7f064,#7ce467);
+        color: rgb(118, 228, 90);
+        display: flex;
+         justify-content: center;
+         align-items: center;
+         padding: 24px 0;
+}
+
+        .-div-conteudo{
+            width: 35%;
+        }
+        .seda-titulo{
+            padding: 40px;px 0;
+        }
+
+        .seda-div{
+            padding: 40px 0;
+        }
+        .seda-div{
+            width: 120px;
+        }
+        
+        .seda-icone{
+            width: 24px;
+            padding: 4px 8px;
+        }
+        
+        .seda-div{
+            text-align: center;
+            padding: 16px 0;
+        }
+        
+        
+         .seda-titulo{
+            text-align: center;
+            padding: 50px 0;
+        }
+        
+        .impotancia-econimica-todos{
+            display: grid;
+            grid-template-columns: 20% 20% 20% 20% 20%;
+        }
+        
+        .rodape{
+            background-color: rgb(95, 248, 95);
+            text-align: center;
+        }
+        
+        .rodape-imagem{
+            height: 60px;
+            padding: 18px 0;
+           
+        }
+      
